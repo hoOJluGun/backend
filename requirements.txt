@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+numpy<2
+torch==2.2.0
+transformers
+sentence-transformers
+faiss-cpu==1.8.0
+python-dotenv
