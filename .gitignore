@@ -114,3 +114,4 @@ venv/lib/python3.10/site-packages/numpy/.dylibs/libopenblas64_.0.dylib
 ./venv/lib/python3.10/site-packages/pydantic/types.py
 ./venv/lib/python3.10/site-packages/pydantic/networks.py
 ./venv/lib/python3.10/site-packages/fastapi-0.136.1.dist-info/RECORD
+./.gitignore
